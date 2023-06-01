@@ -1,3 +1,4 @@
 # slacademy-dev
 
-blah
+:)
+
