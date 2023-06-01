@@ -1,3 +1,5 @@
 # slacademy-dev
 
-wawaq
+:(
+
+:)
