@@ -1,4 +1,5 @@
 # slacademy-dev
 
-:)
+:(
 
+:)
